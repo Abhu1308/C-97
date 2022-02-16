@@ -1,0 +1,50 @@
+body {
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+    text-align: center;
+    font-size: 20px;
+    margin-top: 70px;
+}
+
+#b4 {
+    font-size: 20px;
+    width: 40%;
+    border-radius: 10px;
+    color: white;
+}
+
+#textInput_1 {  
+    width: 40%;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#img4 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+#logout {
+    float: right;
+}
+#space {
+    bottom: 0;
+    position: fixed;
+    float: none;
+    width: 100%;
+}
+#chat {
+    background: rgba(255, 255, 255, 0.8);
+    float: none;
+    border-radius: 15px;
+    width: 60%;
+    padding: 20px;
+    box-shadow: 3px 3px 40px white;
+}
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
